@@ -1,4 +1,4 @@
-# Hi 👋 width="5px"> I'm Mark Yasser
+# Hi 👋 I'm Mark Yasser
 
 
 ## 📖 About me
