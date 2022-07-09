@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> I'm Mark Yasser
+# Hi :wave: I'm Mark Yasser
 
 
 ## 📖 About me
