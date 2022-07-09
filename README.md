@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> I'm Mark Yasser
+# Hi 👋 width="5px"> I'm Mark Yasser
 
 
 ## 📖 About me
@@ -18,9 +18,9 @@ Passion to absorb knowledge🧠 and to gain experience 🏭.
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-E4405F?style=for-the-badge&logo=java&logoColor=white) 
 
-## :calling: Contact  
+## :calling: Contact me 
 
 <a href="https://www.facebook.com/mark.yasser.1"><img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mark-yasser-2525711b6"><img height="30" align="left" alt="LinkedIn" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
