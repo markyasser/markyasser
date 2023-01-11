@@ -4,6 +4,7 @@
 ## 📖 About me
 - I graduated from <strong>Collège-des-Frères Bab El Louk</strong>.
 - I'm currently a computer engineering student at <strong>Cairo University - Faculty of Engineering</strong>.
+- Very experienced in cross-platform application development
 - Skilled in game development.
 - Love for science and Mathmatics.
 - Fast learner and great time manager.
@@ -12,7 +13,7 @@
 Passion to absorb knowledge🧠 and to gain experience 🏭.
 
 ## :man_technologist: Skills
-
+- ![Flutter](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
