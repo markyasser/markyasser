@@ -11,25 +11,14 @@ https://markyasser.github.io/Portfolio-Website/
 [![](https://raw.githubusercontent.com/markyasser/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/markyasser/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/markyasser/temp/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/markyasser/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## ⚡ One line that describes me
-Passion to absorb knowledge🧠 and to gain experience 🏭.
-
 ## :man_technologist: Skills
-<!-- - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-E4405F?style=for-the-badge&logo=java&logoColor=white)  -->
-
 <div align='center'>
-      <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="50" title="Dart" />
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="50" title="Flutter" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
-
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="50" title="Dart" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="50" title="Flutter" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
 </div>
 
 ## :calling: Contact me 
