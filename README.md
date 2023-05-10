@@ -30,10 +30,6 @@ Passion to absorb knowledge🧠 and to gain experience 🏭.
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
 
-
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="50" title="macOS"/>
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Microsoft Windows" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
 </div>
 
 ## :calling: Contact me 
