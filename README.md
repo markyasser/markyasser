@@ -2,12 +2,7 @@
 
 
 ## 📖 About me
-- I graduated from <strong>Collège-des-Frères Bab El Louk</strong>.
-- I'm currently a computer engineering student at <strong>Cairo University - Faculty of Engineering</strong>.
-- Very experienced in cross-platform application development
-- Skilled in game development.
-- Love for science and Mathmatics.
-- Fast learner and great time manager.
+I’m a computer engineering student at Cairo University - Faculty of Engineering. I’m passionate about game development and have experience in cross-platform application development. I’m a fast learner and good at time management. I love to help my friends and I’m always looking for new challenges. Check out my projects below and feel free to connect with me on social media!
 
 
 
