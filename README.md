@@ -2,7 +2,7 @@
 
 
 ## 📖 About me
-I’m a computer engineering student at Cairo University - Faculty of Engineering. I’m passionate about game development and have experience in cross-platform application development. I’m a fast learner and good at time management. I love to help my friends and I’m always looking for new challenges. Check out my projects below and feel free to connect with me on social media!
+I’m a computer engineering student at Cairo University - Faculty of Engineering. I’m passionate about game development and have experience in cross-platform application development. I’m a fast learner and good at time management. I love to help my friends and I’m always looking for new challenges.
 
 ## 💻 Personal Portfolio
 https://markyasser.github.io/Portfolio-Website/
